@@ -1,5 +1,3 @@
-
-
 describe('e2e', () => {
   it('should allow creating a thread and viewing its profile', () => {
     //arrange
